@@ -3,7 +3,7 @@
 👀 I’m interested in:
 - NodeJS
 - Ionic / Angular
-- beguinner Flutter / Dart
+- Flutter / Dart
 - Delphi
 - beguinner GO
 
