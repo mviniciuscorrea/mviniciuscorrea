@@ -5,6 +5,7 @@
 - Ionic / Angular
 - beguinner Flutter / Dart
 - Delphi
+- beguinner GO
 
 code lover 💞
 
