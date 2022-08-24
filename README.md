@@ -1,9 +1,10 @@
 👋 Hello, I’m Marcus Vinicius
 
 👀 I’m interested in:
+
+- Flutter / Dart
 - NodeJS
 - Ionic / Angular
-- Flutter / Dart
 - Delphi
 - beguinner GO
 
